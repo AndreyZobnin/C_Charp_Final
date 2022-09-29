@@ -1,0 +1,15 @@
+C:\githab\c_charp_final\bin\Debug\net6.0\c_charp_final.exe
+C:\githab\c_charp_final\bin\Debug\net6.0\c_charp_final.deps.json
+C:\githab\c_charp_final\bin\Debug\net6.0\c_charp_final.runtimeconfig.json
+C:\githab\c_charp_final\bin\Debug\net6.0\c_charp_final.dll
+C:\githab\c_charp_final\bin\Debug\net6.0\c_charp_final.pdb
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.csproj.AssemblyReference.cache
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.AssemblyInfoInputs.cache
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.AssemblyInfo.cs
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.csproj.CoreCompileInputs.cache
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.dll
+C:\githab\c_charp_final\obj\Debug\net6.0\refint\c_charp_final.dll
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.pdb
+C:\githab\c_charp_final\obj\Debug\net6.0\c_charp_final.genruntimeconfig.cache
+C:\githab\c_charp_final\obj\Debug\net6.0\ref\c_charp_final.dll
